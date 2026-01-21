@@ -1,4 +1,4 @@
-#Python Journey: Encryption 🔐
+# Python Journey: Encryption 🔐
 
 Hello and welcome to my repository. I'm Tiziano! I'm currently learning more about Python, and to practice, I've tried writing two small cryptographic codes, one using the Caesar cipher method and the other using bit manipulation with the XOR operator.
 

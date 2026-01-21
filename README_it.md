@@ -1,4 +1,4 @@
-#Python Journey: Encryption 🔐
+# Python Journey: Encryption 🔐
 
 Salve e benvenuti nel mio deposito. Sono Tiziano! In questo periodo sto cercando di approfondire python e, per allenarmi, mi sono cimentato nel provare a scrivere due piccoli codici di crittografia, uno attraverso il metodo del cifrario di cesare, l'altro attraverso la manipolazione di bit con l'operatore XOR.
 
