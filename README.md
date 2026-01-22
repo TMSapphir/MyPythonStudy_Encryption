@@ -2,8 +2,14 @@
 
 Hello and welcome to my repository. I'm Tiziano! I'm currently learning more about Python, and to practice, I've tried writing two small cryptographic codes, one using the Caesar cipher method and the other using bit manipulation with the XOR operator.
 
+## Arguments: what i'm learning?
+In this project I've trained and experimented with some tools for my first time
 
-## 🛠️ Project: Encryption
+- **decorators:** This is the first I've done this project. I read about them, and although I understood in theory how they worked, I couldn't "visualize" and "feel" them. For this reason, I experimented a bit (as you can see) to understand the logic. In doing so, I also learned the difference between a function extracting a function and a variable (the wrapper was a counterintuitive solution at first, as I didn't fully understand the decorator's logic).
+- **flexible lists:** It's the first time that I've used the `.append()` string in a empty list. in fact, coming from university and with a vague knowledge of C, I was not used to thinking of the list as a "container to be filled after creation"
+- **XOR operator and bitwise manipulation:** I've studied this operator at school but I've never used in this tipe of work and, at the beginning, I've not imagined that I could use it as a Encryption method
+
+##` 🛠️ Project: Encryption
 
 The repository is divided into two main phases:
 
@@ -23,4 +29,5 @@ In this second approach, I try to write code using a symmetric encryption method
 - **Robustness:** Use of decorators for data sanitization and type management (strings/lists).
 
 ---
+
 Progetto realizzato da **TMSapphir** durante il percorso di studio Python. 😊👋
